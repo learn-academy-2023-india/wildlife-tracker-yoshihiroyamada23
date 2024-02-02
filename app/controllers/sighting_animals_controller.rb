@@ -1,0 +1,2 @@
+class SightingAnimalsController < ApplicationController
+end
